@@ -17,4 +17,4 @@
 
 ## JavaScript
 
-- [자바스크립트 동작 과정](./javaScript/How_JS_Works.md)
+- [자바스크립트 동작 과정]('https://github.com/chwonseok/TIL/blob/master/JavaScript/How_JS_Works.md')
