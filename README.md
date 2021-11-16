@@ -26,4 +26,4 @@
 
 ## Web
 
-- [브라우저*렌더링*과정](https://github.com/chwonseok/TIL/blob/master/Web/How_Browser_Works.md)
+- [브라우저 렌더링 과정](https://github.com/chwonseok/TIL/blob/master/Web/How_Browser_Works.md)
