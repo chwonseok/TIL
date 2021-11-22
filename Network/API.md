@@ -14,6 +14,7 @@
 
 ## 웹 API
 
+- 클라이언트와 웹서버의 소통방법
 - 웹은 요청(request)과 응답(response)으로 작동
 - 웹 application 개발할 때, 클라이언트와 서버 / application과 application 등 서로 요청과 응답을 주고 받기 위해 정의한 것
 - 이 웹 API를 통해 서버와 DB 내 리소스에 접근 가능하게 함 (권한 인가된 경우만)
