@@ -1,27 +1,8 @@
-function solution(s) {
-  const numbers = [
-    'zero',
-    'one',
-    'two',
-    'three',
-    'four',
-    'five',
-    'six',
-    'seven',
-    'eight',
-    'nine',
-  ];
+// 1, 4, 7은 %3일 때 값이 1
+// 3, 6, 9는 %3일 때 값이 0
+// 2,5,8,0 -> 양쪽의 숫자가 가장 가까움
 
-  numbers.map((el, i) => {
-    s = s.replace(el, i).replace(el, i);
-  });
-
-  var answer = 0;
-  answer = s;
-  console.log(+answer);
+function solution(numbers, hand) {
+  var answer = '';
+  return answer;
 }
-
-solution('one4seveneight');
-solution('23four5six7');
-solution('2three45sixseven');
-solution('123');
