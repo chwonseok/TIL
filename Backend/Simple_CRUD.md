@@ -18,7 +18,7 @@
 
 # Express?
 
-- Node.js 사용을 쉽게 도와주는
+- Node.js 사용을 쉽게 도와줌
   `Express 관련은 다른 페이지에서 더 정리 후 개별 link 예정`
 
 # Nodemon
