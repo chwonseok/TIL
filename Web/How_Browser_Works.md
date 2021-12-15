@@ -8,7 +8,7 @@
 
    - 파싱(parsing): 문자열을 유의미한 토큰(token)으로 분해하여 문법적 의미와 구조를 반영하여 트리형태 자료구조인 파스 트리(parse tree)를 만드는 것
 
-4. DOM과 CSSOM을 결합하여 렌더트리(Render Tree) 생성
+4. DOM(Document Object Model)과 CSSOM(CSS Object Model)을 결합하여 렌더트리(Render Tree) 생성
 
 5. 결합된 렌더트리를 기반으로 html 요소의 레이아웃을 계산하고 html 요소에 페인팅 함
 
@@ -24,7 +24,7 @@
 
 4. 토큰은 객체화 되어 노드로 생성
 
-5. 이 노드들은 html 요소간 부자관계에 따라 DOM(Document Object Model)로 구성됨
+5. 이 노드들은 html 요소간 부자관계에 따라 DOM로 구성됨
 
 ## 2. css 파싱 및 CSSOM 생성
 
