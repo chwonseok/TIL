@@ -29,7 +29,7 @@
 - boolean의 약식 표현, true 또는 false 나타내기 위해 사용
 - `Console.Write(true); Console.Write(false);`
 
-# C#에서 데이터 형식이 중요성
+# C#에서 데이터 형식의 중요성
 
 - Python, JavaScript 등 다른 언어와 C#을 차별화하는 주요 기능 중 하나
 - C# 디자이너는 이런 데이터 형식을 적용하여 일반적 버그를 방지할 수 있다고 생각함
